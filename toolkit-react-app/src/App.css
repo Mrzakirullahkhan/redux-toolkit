@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Lora:ital@0;1&family=Open+Sans:wght@300&family=PT+Serif&family=Playfair+Display&family=Quicksand:wght@500;600;700&family=Roboto+Slab:wght@100&display=swap');
+
+:root {
+    --primary-color: #0f171e;
+    --secondary-color: #1a242f;
+    --font-primary: white;
+    --font-secondary: #79b8f3;
+
+  }
+
+body{
+   
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--primary-color);
+}
+a{
+    text-decoration: none;
+}
